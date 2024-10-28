@@ -116,4 +116,4 @@ docker logs cer2cen
 
 ## License
 
-**Cer2Cen** is developed by Riccardo Bertelli and is distributed under the terms of the GNU General Public License v3 (GPLv3). For more information, please refer to the license file.
+**Cer2Cen** is developed by [**Riccardo Bertelli**](mailto:riccardo@codetotime.com) and is distributed under the terms of the GNU General Public License v3 (GPLv3). For more information, please refer to the license file.
