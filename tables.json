@@ -1,0 +1,23 @@
+{
+    "TBL_TIPO_TRATTA": "elf_tbl_tipo_tratta",
+    "TBL_TIPO_TESTA_SOSTEGNO": "elf_tbl_tipo_testa_sostegno",
+    "TBL_TIPO_BASE_SOSTEGNO": "elf_tbl_tipo_base_sostegno",
+    "TBL_TIPO_SOSTEGNO": "elf_tbl_tipo_sostegno",
+    "TBL_CONDUTTORI": "elf_tbl_conduttori",
+    "TBL_SOGGETTI": "elf_tbl_soggetti",
+    "TBL_TIPO_IMPIANTO": "elf_tbl_tipo_impianto",
+
+    "TBL_IMPIANTI": "elf_tbl_impianti",
+    "TBL_LINEE": "elf_tbl_linee",
+
+    "TBL_PUNTI_SOSPENSIONE": "elf_tbl_punti_sospensione",
+    "TBL_SOSTEGNI": "elf_tbl_sostegni",
+    "TBL_TRONCHI": "elf_tbl_tronchi",
+    "TBL_FASI": "elf_tbl_fasi",
+    "TBL_SOST_AEREI": "elf_tbl_sost_aerei",
+
+    "TBL_DENOM_SOSTEGNO": "elf_tbl_denom_sostegno",
+    "TBL_TRATTE": "elf_tbl_tratte",
+    "TBL_CORRENTI": "elf_tbl_correnti",
+    "TBL_CAMPATE": "elf_tbl_campate"
+}

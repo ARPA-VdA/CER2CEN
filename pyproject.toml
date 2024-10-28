@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "cer2cen"
+version = "0.1.0"
+description = "Software di trasferimento dati per il sistema informativo SINANET CER2CEN"
+authors = ["Riccardo Bertelli <riccardo@codetotime.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+requests = "^2.32.3"
+
+
+python-dotenv = "^1.0.1"
+mariadb = "^1.1.10"
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+migrate = "cer2cen.migrate:start"
